@@ -36,7 +36,11 @@ The Jupyter Notebook (`fast-sales-data-for-economic-data-analysis.ipynb`) in thi
    - Understanding the distribution of sales, costs, and revenues.
    - Visualizing sales trends over time using Power BI.
    - Analyzing customer demographics (age, gender, country) and how they affect sales.
-   
+
+## Screenshot
+
+![Dashboard Screenshot](image.png)
+
 ### 4. **Insights and Summary**
    - Insights on customer behavior based on age, gender, and region.
    - Trends in product categories and their contribution to total sales and revenue.
